@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/64f0c97972ba2ea29971b492
+https://www.overleaf.com/5613922729hbymtqzvmdcv
 
 Paper title:
 Image Generation with DCGAN: A Deep Convolutional Generative Adversarial Network
