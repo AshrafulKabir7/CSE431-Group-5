@@ -1,26 +1,20 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/2867239545hxfpcsgwmcsz
+https://www.overleaf.com/5281961283khvrsntxqcmk
 
 Conference submitted paper / paper submission / login Link:
-https://www.nejlt.org/
+https://easychair.org/conferences/?conf=consilr2023
 
 Paper title:
-Image Generation with DCGAN: A Deep Convolutional Generative Adversarial Network
-
-Paper presentation (anyone can view without login):
-https://www.overleaf.com/2867239545hxfpcsgwmcsz
+Implementing a Vanilla RNN and Analyzing its Limitations
 
 Paper submission date (to workshop/conference):
-2023-09-04
-
-Paper submission ID: (received) from conference/workshop
-4987
-
+2023-09-20
 Conference Name:
- Northern European Journal of Lanugage Technology
+The 18th International Conference on Linguistic Resources
+and Tools for Natural Language Processing
 
 Conference URL:
-https://nejlt.ep.liu.se/authorDashboard/submission/4987
+https://easychair.org/conferences/submission?a=31673756&submission=6675187
 
 Group Number:
 05
